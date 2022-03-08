@@ -1,0 +1,18 @@
+.main {
+  display: grid;
+  padding: 20px;
+}
+
+.main-table th, td {
+  text-align: center;
+  border: 1px solid #40005d;
+}
+
+.main-table th{
+    background-color: #40005d;
+    color: white;
+}
+
+.main-table{
+  border-collapse: collapse;
+}
